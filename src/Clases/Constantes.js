@@ -1,0 +1,1 @@
+export const BasePaht = 'https://localhost:44392/api/Personas/'
